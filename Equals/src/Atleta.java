@@ -2,7 +2,7 @@ public class Atleta {
     String sport;
     String nome;
     double altezza;
-    Matrice
+  
 
     public Atleta(){}
 
