@@ -11,7 +11,7 @@ public class Atleta {
         this.sport = sport;
         this.altezza = altezza;
     }
-
+    //fanculo
     public String getNome(){
         return nome;
     }
